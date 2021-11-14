@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Baptiste, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/323/323291.svg" width="13"/> <b>Bruxelles, Belgium</b>.</p>
+<p>Welcome to my page! </br> I'm Baptiste, Fullstack developer from 🇧🇪 <b>Bruxelles, Belgium</b>.</p>
 
 
 <h4> 3+ years of experience in web development.</h4>
 
 **✔︎ Technologies**: Ruby (on Rails), Vuejs, Nodejs.
 
-**✔︎ AWS**: API GTW, Lambda, DynamoDB, S3, EC2.
+**✔︎ AWS**: API GTW, Lambda, DynamoDB, S3, EC2, ECS.
 
-**✔︎ Languages**: English <img src="https://image.flaticon.com/icons/svg/555/555417.svg" width="13"/>, French <img src="https://image.flaticon.com/icons/svg/555/555602.svg" width="13"/>.
+**✔︎ Languages**: English🇬🇧 French 🇫🇷
 
 
 <h3>Where to find me</h3>
