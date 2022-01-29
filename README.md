@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Baptiste, Fullstack developer from 🇧🇪 <b>Bruxelles, Belgium</b>.</p>
 
 
-<h4> 3+ years of experience in web development.</h4>
+<h4> 4+ years of experience in web development.</h4>
 
 **✔︎ Technologies**: Ruby (on Rails), Vuejs, Nodejs.
 
