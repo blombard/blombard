@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<p>Welcome to my page! </br> I'm Baptiste, Fullstack developer from 🇧🇪 <b>Bruxelles, Belgium</b>.</p>
+<p>Welcome to my page! </br> I'm Baptiste, <a href="https://www.leexi.ai/" target="_blank">Leexi</a> CTO from 🇧🇪 <b>Bruxelles, Belgium</b>.</p>
 
 
-<h4> 5+ years of experience in web development.</h4>
+<h4> 6+ years of experience in web development.</h4>
 
 **✔︎ Technologies**: Ruby (on Rails), Vuejs, Nodejs.
 
 **✔︎ AWS**: API GTW, Lambda, DynamoDB, S3, EC2, ECS.
 
-**✔︎ Languages**: English🇬🇧 French 🇫🇷
+**✔︎ Languages**: English 🇬🇧 French 🇫🇷
 
 
 <h3>Where to find me</h3>
