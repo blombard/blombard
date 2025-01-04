@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm Baptiste, <a href="https://www.leexi.ai/" target="_blank">Leexi</a> CTO from 🇧🇪 <b>Bruxelles, Belgium</b>.</p>
 
 
-<h4> 6+ years of experience in web development.</h4>
+<h4> 7+ years of experience in web development.</h4>
 
 **✔︎ Technologies**: Ruby (on Rails), Vuejs, Nodejs.
 
